@@ -2,7 +2,7 @@
 .DS_Store
 
 # NPM
-/node_modules
+node_modules/
 !node_modules/openblock-blocks/generators/arduino/arduino.js
 !node_modules/openblock-l10n/locales/editor-msgs.js
 !node_modules/openblock-l10n/locales/extensions-msgs.js
