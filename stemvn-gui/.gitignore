@@ -1,0 +1,22 @@
+# Mac OS
+.DS_Store
+
+# NPM
+/node_modules
+!node_modules/openblock-blocks
+!node_modules/openblock-l10n
+!node_modules/openblock-vm
+npm-*
+
+# Testing
+/.nyc_output
+/coverage
+
+# Build
+/build
+/dist
+/.opt-in
+
+# Generated translation files
+/translations
+/locale
